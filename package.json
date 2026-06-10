@@ -2,6 +2,14 @@
   "name": "rn-cross-calendar",
   "version": "1.0.0",
   "description": "Cross-platform Calendar component for React Native, compatible with React 18/19, RN 0.72+, and RNOH (HarmonyOS)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuma0605/rn-cross-calendar.git"
+  },
+  "homepage": "https://github.com/kuma0605/rn-cross-calendar#readme",
+  "bugs": {
+    "url": "https://github.com/kuma0605/rn-cross-calendar/issues"
+  },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",

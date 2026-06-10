@@ -16,11 +16,11 @@ Cross-platform Calendar component for React Native. Compatible with **React 18/1
 
 | Basic Single Select | Year Panel | Min/Max Date |
 |:---:|:---:|:---:|
-| ![Basic](screenshots/1-基础单选.png) | ![Year Panel](screenshots/1-基础单选-month-year.png) | ![MinMax](screenshots/2-最大最小值.png) |
+| ![Basic](https://raw.githubusercontent.com/kuma0605/rn-cross-calendar/main/screenshots/1-基础单选.png) | ![Year Panel](https://raw.githubusercontent.com/kuma0605/rn-cross-calendar/main/screenshots/1-基础单选-month-year.png) | ![MinMax](https://raw.githubusercontent.com/kuma0605/rn-cross-calendar/main/screenshots/2-最大最小值.png) |
 
 | Date Marks & Theme | Range Selection | Drawer Picker |
 |:---:|:---:|:---:|
-| ![Marks](screenshots/3-标记&自定义主题颜色.png) | ![Range](screenshots/4-起始范围选择.png) | ![Drawer](screenshots/5-抽屉日历pop.png) |
+| ![Marks](https://raw.githubusercontent.com/kuma0605/rn-cross-calendar/main/screenshots/3-标记&自定义主题颜色.png) | ![Range](https://raw.githubusercontent.com/kuma0605/rn-cross-calendar/main/screenshots/4-起始范围选择.png) | ![Drawer](https://raw.githubusercontent.com/kuma0605/rn-cross-calendar/main/screenshots/5-抽屉日历pop.png) |
 
 ## Install
 
